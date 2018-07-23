@@ -1,14 +1,170 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "productId": 857797014,
+  "name": "ماکارون",
+  "property": [
+    {
+      "effectAll": false,
+      "name": "طعم خامه",
+      "multiple": false,
+      "description": "",
+      "propertyId": 822912428,
+      "value": [
+        {
+          "valueId": 380411954,
+          "price": 0,
+          "name": "توت فرنگی"
+        },
+        {
+          "valueId": 838277803,
+          "price": 0,
+          "name": "موز"
+        }
+      ]
+    },
+    {
+      "effectAll": false,
+      "name": "میزان خامه",
+      "multiple": false,
+      "description": "",
+      "propertyId": 1369072727,
+      "value": [
+        {
+          "valueId": 1550532617,
+          "price": 0,
+          "name": "کم خامه"
+        },
+        {
+          "valueId": 1536503346,
+          "price": 0,
+          "name": "پر خامه"
+        },
+        {
+          "valueId": 1572854986,
+          "price": 0,
+          "name": "متوسط"
+        }
+      ]
+    },
+    {
+      "effectAll": false,
+      "name": "تزئین ",
+      "multiple": true,
+      "description": "",
+      "propertyId": 1044757603,
+      "value": [
+        {
+          "valueId": 138936062,
+          "price": 100,
+          "name": "گردو"
+        },
+        {
+          "valueId": 697141536,
+          "price": 150,
+          "name": "مربا"
+        },
+        {
+          "valueId": 1571434310,
+          "price": 150,
+          "name": "پسته"
+        }
+      ]
+    },
+    {
+      "effectAll": false,
+      "name": "کلفتی ماکارون",
+      "multiple": false,
+      "description": "کلفتی خمیر ماکارون",
+      "propertyId": 1604294189,
+      "value": []
+    },
+    {
+      "effectAll": false,
+      "name": "طعم کرم",
+      "multiple": true,
+      "description": "طعم کرم میانی",
+      "propertyId": 1568216511,
+      "value": [
+        {
+          "valueId": 1101756063,
+          "price": 100,
+          "name": "توت فرنگی"
+        },
+        {
+          "valueId": 1653745231,
+          "price": 200,
+          "name": "البالویی"
+        },
+        {
+          "valueId": 754375932,
+          "price": 5000,
+          "name": "شکلاتی"
+        },
+        {
+          "valueId": 1704223230,
+          "price": 1000,
+          "name": "نارگیلیی"
+        },
+        {
+          "valueId": 1176217716,
+          "price": 5000,
+          "name": "قهوه"
+        }
+      ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "description": "ماکارونه دیگه",
+  "scale": {
+    "scaleId": 842426992,
+    "name": "دانه",
+    "value": [
+      {
+        "valueId": 356847228,
+        "effect": 100,
+        "description": "بسته 12 تایی",
+        "packages": [
+          {
+            "price": 5000,
+            "packageId": 1770147008,
+            "name": "آهنی",
+            "description": "فلز سخت",
+            "picture": "mdejp.jpeg",
+            "status": 0
+          }
+        ],
+        "value": 12,
+        "picture": ""
+      },
+      {
+        "valueId": 1859614312,
+        "effect": 95,
+        "description": "بسته 24 تایی (5% تخفیف)",
+        "packages": [],
+        "value": 24,
+        "picture": ""
+      },
+      {
+        "valueId": 765478429,
+        "effect": 90,
+        "description": "بسته 48 تایی (10% تخفیف)",
+        "packages": [],
+        "value": 48,
+        "picture": ""
+      }
+    ]
+  },
+  "category": {
+    "categoryId": 3
+  },
+  "picture": [
+    {
+      "pictureId": 1481947987,
+      "url": "dtgrh.jpeg"
+    },
+    {
+      "pictureId": 1537498390,
+      "url": "bqlkx.jpeg"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "basePrice": 1000,
+  "status": 0
 }
